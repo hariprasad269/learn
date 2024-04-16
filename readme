@@ -1,0 +1,29 @@
+Git Learnings
+mkdir directory_name 
+mkdir gitlearn
+HARI@HARI MINGW64 ~/Desktop
+$ cd gitlearn/
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn
+$ touch learn.txt
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn
+$ ls
+learn.txt
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn
+$ git init
+Initialized empty Git repository in C:/Users/HARI/Desktop/gitlearn/.git/
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn (master)
+$ ls
+learn.txt
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn (master)
+$ ls -a
+./  ../  .git/  learn.txt
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn (master)
+$ touch readme
+(base)
+HARI@HARI MINGW64 ~/Desktop/gitlearn (master)
