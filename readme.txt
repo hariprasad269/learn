@@ -871,8 +871,6 @@ HARI@HARI MINGW64 ~/Desktop/mylearnings/gitlearn (new)
 $ git status
 On branch new
 nothing to commit, working tree clean
-<<<<<<< HEAD
-=======
 (base)
 HARI@HARI MINGW64 ~/Desktop
 $ cd mylearning
@@ -1934,6 +1932,4 @@ $ git stash list
 (base)
 HARI@HARI MINGW64 ~/Desktop/mylearnings/gitlearn (new)
 $
-
->>>>>>> cbe940b (all)
 
